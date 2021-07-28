@@ -1794,6 +1794,9 @@ body.video #videobg {
 }
 
 @media (max-width: 767px) {
+  .mobile {
+    display: block;
+  }
   body.video #videobg {
     display: none;
   }
